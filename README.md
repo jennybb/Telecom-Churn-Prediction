@@ -11,24 +11,24 @@ The dataset can be used to analyze all relevant customer data and develop focuse
 
 #### Data Dictionary:
 
-<b>Customer ID:</b>             unique customer ID
-<b>Gender:</b>                      gender of a customer 
-<b>Senior Citizen:</b>           if a customer is a senior citizen 
-<b>Partner:</b>                      if a customer has a partner
-<b>Dependents:</b>              if a customer has dependents
-<b>Tenure:</b>                       if a customer is a tenure
-<b>Phone Service:</b>           if a customer sign up for phone service 
-<b>Multiple Lines:</b>            if a customer sign up for multiple lines
-<b>Internet Service:</b>         if a customer sign up for internet service
-<b>Online Security:</b>          if a customer sign up for online security
-<b>Online Backup:</b>           if a customer sign up for online backup
-<b>Device Protection:</b>      if a customer sign up for device protection
-<b>Tech Support:</b>             if a customer sign up for tech support 
-<b>Streaming TV:</b>            if a customer sign up for streaming TV 
-<b>Streaming Movies:</b>      if a customer sign up for streaming movies
-<b>Contract:</b>                     if a customer has a contract with the company 
-<b>Paperless Billing:</b>        if a customer sign up for paperless billing 
-<b>Payment Method:</b>        a customer’ payment method 
-<b>Monthly Charges:</b>        a customer’ monthly charge 
-<b>Total Charges:</b>             a customer’s total charges 
-<b>Churn:</b>                         if a customer leave the company 
+- <b>Customer ID:</b>             unique customer ID
+- <b>Gender:</b>                      gender of a customer 
+- <b>Senior Citizen:</b>           if a customer is a senior citizen 
+- <b>Partner:</b>                      if a customer has a partner
+- <b>Dependents:</b>              if a customer has dependents
+- <b>Tenure:</b>                       if a customer is a tenure
+- <b>Phone Service:</b>           if a customer sign up for phone service 
+- <b>Multiple Lines:</b>            if a customer sign up for multiple lines
+- <b>Internet Service:</b>         if a customer sign up for internet service
+- <b>Online Security:</b>          if a customer sign up for online security
+- <b>Online Backup:</b>           if a customer sign up for online backup
+- <b>Device Protection:</b>      if a customer sign up for device protection
+- <b>Tech Support:</b>             if a customer sign up for tech support 
+- <b>Streaming TV:</b>            if a customer sign up for streaming TV 
+- <b>Streaming Movies:</b>      if a customer sign up for streaming movies
+- <b>Contract:</b>                     if a customer has a contract with the company 
+- <b>Paperless Billing:</b>        if a customer sign up for paperless billing 
+- <b>Payment Method:</b>        a customer’ payment method 
+- <b>Monthly Charges:</b>        a customer’ monthly charge 
+- <b>Total Charges:</b>             a customer’s total charges 
+- <b>Churn:</b>                         if a customer leave the company 
